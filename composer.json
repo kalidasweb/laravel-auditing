@@ -1,5 +1,5 @@
 {
-    "name": "owen-it/laravel-auditing",
+    "name": "kalidasweb/laravel-auditing",
     "description": "Keep a change history for your models using laravel and lumen",
     "keywords": ["audit", "auditing", "activity", "laravel", "log", "logging", "register", "observer", "lumen"],
     "homepage": "https://laravel-auditing.com",
